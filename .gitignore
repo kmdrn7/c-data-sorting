@@ -4,3 +4,4 @@ gnore everything
 # But not these files...
 !.gitignore
 !main.c
+!readme.md
