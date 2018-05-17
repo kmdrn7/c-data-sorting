@@ -1,0 +1,6 @@
+gnore everything
+*
+
+# But not these files...
+!.gitignore
+!main.c
